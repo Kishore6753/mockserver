@@ -119,3 +119,4 @@ go_client
 # soft links #
 ##############
 kube_config.yaml
+.file_activity_report.json
